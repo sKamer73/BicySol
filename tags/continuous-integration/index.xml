@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Continuous Integration on Eddie Webb</title>
+    <title>Continuous Integration on BicySol</title>
     <link>/tags/continuous-integration/</link>
-    <description>Recent content in Continuous Integration on Eddie Webb</description>
+    <description>Recent content in Continuous Integration on BicySol</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>fr</language>
     <lastBuildDate>Tue, 08 Nov 2016 00:00:00 +0000</lastBuildDate><atom:link href="/tags/continuous-integration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>

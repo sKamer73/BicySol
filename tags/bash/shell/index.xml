@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bash/shell on Eddie Webb</title>
+    <title>bash/shell on BicySol</title>
     <link>/tags/bash/shell/</link>
-    <description>Recent content in bash/shell on Eddie Webb</description>
+    <description>Recent content in bash/shell on BicySol</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/bash/shell/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="/tags/bash/shell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BOSH release for Bamboo &amp; Remote Agents</title>
       <link>/projects/creations/bosh-agents/</link>

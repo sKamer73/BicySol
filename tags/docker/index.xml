@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docker on Eddie Webb</title>
+    <title>Docker on BicySol</title>
     <link>/tags/docker/</link>
-    <description>Recent content in Docker on Eddie Webb</description>
+    <description>Recent content in Docker on BicySol</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>fr</language>
     <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate><atom:link href="/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Added Docker Build Status Badge to shields.io</title>
